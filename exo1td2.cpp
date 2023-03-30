@@ -6,7 +6,7 @@ struct Fraction{
     int  denum;
 
     void affiche(){
-        std::cout<<"Fraction="<<num<<"/"<<denum<<std::endl;
+        std::cout<<"Fraction= "<<num<<"/"<<denum<<std::endl;
     }
 
     double valeurApprochee(){
